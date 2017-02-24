@@ -17,3 +17,7 @@ SDK
 1. Kinect for Windows SDK 2.0
   
 ## Install  
+Point Cloud Library  
+Refer to this book or page  
+1. KINECT for Windows SDK プログラミング Kienct for Windows v2センサー対応版  
+2. Summary?Blog(http://unanancyowen.com/pcl18/)  
